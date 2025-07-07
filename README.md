@@ -1,2 +1,2 @@
 # Predicting-Online-Shopping-Purchases
-apstone project on predicting online shoppers’ intention using machine learning
+Capstone project on predicting online shoppers’ intention using machine learning
